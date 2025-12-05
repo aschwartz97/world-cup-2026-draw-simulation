@@ -176,7 +176,7 @@ jupyter notebook notebooks/demo_world_cup_draw.ipynb
 
 ## 📝 Data Sources
 
-- **Pots**: Based on FIFA rankings as of December 2024
+- **Pots**: Based on FIFA rankings as of December 2025
 - **Confederations**: Official FIFA confederation assignments
 - **Rules**: FIFA World Cup 2026 official draw regulations
 
@@ -197,9 +197,9 @@ MIT License - Feel free to use and modify
 ## 👤 Author
 
 **[Your Name]**
-- Twitter: [@yourhandle]
-- LinkedIn: [Your Profile]
-- GitHub: [@yourusername]
+- Twitter: [@ari_schwartz]
+- LinkedIn: [/arielschwartz97]
+- GitHub: [@aschwartz97]
 
 ---
 
