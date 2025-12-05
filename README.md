@@ -196,7 +196,7 @@ MIT License - Feel free to use and modify
 
 ## 👤 Author
 
-**[Your Name]**
+**Ariel Schwartz**
 - Twitter: [@ari_schwartz]
 - LinkedIn: [/arielschwartz97]
 - GitHub: [@aschwartz97]
