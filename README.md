@@ -51,7 +51,7 @@ world-cup-2026-draw-simulation/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/world-cup-2026-draw-simulation.git
+git clone https://github.com/aschwartz97/world-cup-2026-draw-simulation.git
 cd world-cup-2026-draw-simulation
 ```
 
